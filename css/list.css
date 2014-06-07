@@ -1,0 +1,27 @@
+/*************¡–±Ì“≥***************/
+.lft_top{width:695px;height:2px;background:url(../images/list_lft_top.jpg);overflow:hidden;}	
+.lft_bot{width:695px;height:2px;background:url(../images/list_lft_bot.jpg);overflow:hidden;}	
+#lft_div{float:left;width:695px;}
+#list{width:693px;border-left:1px solid #DCDEDF;border-right:1px solid #DCDEDF;overflow:hidden;}
+	#list #hd{width:683px;height:45px;margin:0 auto;background:url(../images/list_title_bot.jpg) repeat-x bottom;}
+	#list #hd strong{float:left;width:380px;height:100%;font-weight:400;color:#1948AE;line-height:45px;background:url(../images/tree_img.gif) 6px no-repeat;padding-left:22px;}
+	#list #hd strong a{color:#1948AE;}
+	#list #hd em{float:right;height:33px;width:250px;padding:12px 0 0 0;}
+	#list #hd em .s_next{float:right;width:24px;height:20px;background:url(../images/list_btn_nextGrey.jpg);margin-right:8px;display:inline;}
+	#list #hd em a .s_next{background:url(../images/list_btn_next.jpg);}
+	#list #hd em .s_pre{float:right;width:25px;height:20px;background:url(../images/list_btn_preGrey.jpg);}
+	#list #hd em a .s_pre{background:url(../images/list_btn_pre.jpg);}
+	#list #hd em #fenye{float:right;height:20px;list-style: none outside none;margin-right:10px;display:inline;}
+	#list ul{width:683px;margin:8px auto 0;}
+	#list li{float:left;}
+	#list li strong{float:left;width:657px;height:32px;line-height:32px;font-size:14px;padding-left:16px;background:url(../images/lft_title_left.gif) 6px no-repeat;border-bottom:1px dashed #CCCCCC;overflow:hidden;}
+	#list li strong a{color:#3C8000;}
+	#list li strong a:hover{color:red;}
+	#list li #p_ldiv{float:left;width:668px;padding:5px 5px 5px 10px;border-bottom:1px dashed #CCCCCC;}
+	#list li #p_ldiv a{color: #FF7E00;}
+	#list #stat{width:100%;margin:0 auto;text-align:center;margin-top:10px;}
+	#list #stat span{color:red;font-size:bold;}
+	#list #page{width:100%;text-align:center;margin-bottom:20px;padding:5px 0;}
+	#list #page span{border:1px solid #BDBDBD;color:#888888;margin:0 3px;padding:1px 5px 1px;}
+	#list #page a span{border:1px solid #1280C9;color:#1280C9;}
+	#list #page a:hover span{background:#2c688d;color:#fff;text-decoration:none;}
